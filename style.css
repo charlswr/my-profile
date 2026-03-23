@@ -125,3 +125,8 @@ a:hover {
     width: 300px;
   }
 }
+
+.list-inline i {
+  font-size: 30px;
+  color: #6B72E1;
+}
